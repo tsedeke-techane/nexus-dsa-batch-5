@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tsedeke-techane/nexus-dsa-batch-5/tree/master/0014-longest-common-prefix) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tsedeke-techane/nexus-dsa-batch-5/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/tsedeke-techane/nexus-dsa-batch-5/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tsedeke-techane/nexus-dsa-batch-5/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tsedeke-techane/nexus-dsa-batch-5/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tsedeke-techane/nexus-dsa-batch-5/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tsedeke-techane/nexus-dsa-batch-5/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
